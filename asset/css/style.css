@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+} /* Enlève les marges des navigateurs */
+
+.subtitle {
+    color: red;
+    text-transform: uppercase;
+}
+.image {
+    background-image: url(https://placehold.co/1920x700); 
+}
+.image h1{
+    padding: 300px 0;
+} /* Marge du texte dans le background */
