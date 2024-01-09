@@ -13,3 +13,11 @@
 .image h1{
     padding: 300px 0;
 } /* Marge du texte dans le background */
+#position {
+    position: relative;
+}
+.position {
+    position: absolute;
+    top:100px; 
+    left: 50%;
+}
